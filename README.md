@@ -11,10 +11,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Questions](#Questions)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+ 
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -40,7 +37,7 @@ I have raised the project of the card using grid, background for the image of th
 - Flexbox
 - CSS Grid
 
-#Questions
+### Questions
  I would like to know suggestions as to the code that they are wrong or that they would be better off otherwise.
  At the beginning of everything in the css I give html and body the properties width: 90%, max-width: 1000px and margin: auto to get a focus of all this, I am not sure if this is the best way to achieve this.
  Thanks
